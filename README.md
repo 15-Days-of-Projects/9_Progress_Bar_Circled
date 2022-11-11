@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Shashikant Maurya</h1>
 <h3 align="center">An aspiring frontend developer from Pune, India</h3>
 <img align="right" alt="Coding" width="400" 
-src="https://github.com/30-Days-of-Projects/8_Note_App/blob/main/Note_App.png">
+src="https://github.com/30-Days-of-Projects/9_Progress_Bar_Circled/blob/main/Progress_Bar_Circled.png">
 
 - 🔭   This is the 9th project from my 30 Days of Project Repository.
 - 🔭   This is Progress bar for skills percentage.
